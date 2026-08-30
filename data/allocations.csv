@@ -1,0 +1,5 @@
+Allocation ID,Crisis ID,Resource,Quantity,Location
+A101,C101,Water,100,Hyd
+A101,C101,Flood,100,Hyd
+A101,C101,Flood,50,Hyd
+C101,C101,Flood,50,hyd

@@ -1,0 +1,7 @@
+Crisis ID,Crisis Type,Location,Severity,Status
+C101,Flood,hyd,Medium,Active
+C101,HYD,HYD,LOW,ACTIVE
+C102,Road Accident,Hyd,High,Active
+A101,Flood,Hyd,High,Active
+C101,Flood,Hyd,Low,Active
+C101,FLOOD,HYDERABAD,HIGH,ACTIVE

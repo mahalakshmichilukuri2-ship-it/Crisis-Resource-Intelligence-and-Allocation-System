@@ -1,0 +1,4 @@
+Vehicle ID,Vehicle Type,Driver Name,Status
+V101,Ambulance,Ramesh,Available
+V101,Ambulance,Suresh,Busy
+V101,AMBULANCE,SURESH,AVAILABLE
